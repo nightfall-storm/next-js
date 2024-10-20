@@ -1,4 +1,4 @@
-export default function Form() {
+export default function Login() {
     return (
         <>
             <form className="max-w-sm mx-auto">
